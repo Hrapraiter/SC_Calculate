@@ -1,6 +1,6 @@
 Python3
 
-# download releses : https://github.com/Hrapraiter/SC_Calculate/releases/tag/relese
+# download releses : https://github.com/Hrapraiter/SC_Calculate/releases
 
 requarements.txt :
 * PyQt6
